@@ -6,3 +6,4 @@ this is from branch_1
 baday bi
 
 bye bye
+from cloned amal
